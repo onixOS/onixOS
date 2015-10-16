@@ -18,6 +18,7 @@ most importantly, it needs to be easy to use and understand.
 - beautiful user environment using latest GTK+
 - highly secure, by default
 - realtime microkernel
+- optimised for gaming
 - uinit (no systemd)
 - reliable and self-healing
 - wayland compositor
